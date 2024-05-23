@@ -1,6 +1,8 @@
 ## Overview
+Image classification using Machine Learning has many useful applications for daily tasks and has the potential to make our lives easier. Machine Learning programs aim to learn from images to find object patterns that make them recognizable. For example, we tend to recognize a fork because it has a handle, a neck and four points. Therefore, ML and Image classification should identify those patterns in a picture to classify it as a fork.
 
 ## Goal
+I'm going to explore the application of data manipulation, transfer learning and a custom deep neural network to a cutlery image dataset to find the model with the best image classification performance for four categories - cup, knife, fork, spoon.
 
 ## Objectives
 1. Take 100 images per class with at least 3 classes using my phone/camera. Display 5 examples from each class.
